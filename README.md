@@ -69,7 +69,7 @@ This includes:
 
 # FAQ
 
-## 1. **Q: How do I enable shaders?**
+### 1. **Q: How do I enable shaders?**
 
 A: [Iris](https://modrinth.com/mod/iris) and [Complementary Shaders - Reimagined](https://modrinth.com/shaderpack/complementary-reimagined) are pre-installed! You can toggle shaders on or off in **Video Settings -> Shader Packs** or by pressing **`K`** in-game.
 
@@ -79,15 +79,15 @@ A: I recommend allocating **6 GB to 8 GB** of RAM in your launcher settings for 
 <!-- **Q: Why are some recipes missing or blank in REI?**  
 A: Certain Cooking Pot recipes from Farmer's Delight addons have display serializer issues on early 26.2 builds. This will be resolved as mod authors release updates. -->
 
-## 2. **Q: How do I configure mod settings?**
+### 2. **Q: How do I configure mod settings?**
 
 A: Open the **Mod Menu** from the main menu or pause screen to easily customize individual mod options (such as Xaero's Minimap, SmoothGui, or Jade).
 
-## 3. **Q: How do I report bugs or crashes?**
+### 3. **Q: How do I report bugs or crashes?**
 
 A: Please open a GitHub Issue and attach the crash log files provided by Crash Assistant.
 
-## 4. **Q: How do I get those 3D foods seen in the table picure in the photo gallery?**
+### 4. **Q: How do I get those 3D foods seen in the table picure in the photo gallery?**
 
 A: Due to how the mod **Display Delight** replaces models, all REI recipes for Farmer's Delight are missing. Till I find a fix or the mod auther changes something, I am leaving the Display Delight mod out so you can see the recipes.
 
