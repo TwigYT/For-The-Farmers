@@ -11,6 +11,7 @@ Here, all you need is in this simple list:
 - **New Biomes** ([Biomes O' Plenty](https://modrinth.com/mod/biomesoplenty), [Incendium Legacy](https://modrinth.com/mod/incendium))
 - **LOTS of New Furniture** (Every mod from [Macaw](https://modrinth.com/user/sketchmacaw) plus Biomes O' Plenty compatibility, [Beautify: Refabricated](https://modrinth.com/mod/beautify-refabricated))
 - **LOTS of New Blocks** ([More Chests Variants](https://modrinth.com/mod/more-chests-variants), [Rechiseled](https://modrinth.com/mod/rechiseled), [Stoneworks](https://modrinth.com/mod/stoneworks))
+- **LOTS of QoL mods by Fuzs** ([Enchanting Infuser](https://modrinth.com/mod/enchanting-infuser), [Health Bars](https://modrinth.com/mod/new-health-bars), [Illager Invasion](https://modrinth.com/mod/illager-invasion), Etc.)
 - **Many other mods.**
 
 Overall, this pack adds over 11,000 new blocks and items! But don't worry, most of those are different variations of vanilla blocks from Rechiseled and Stoneworks! Giving you more options for making amazing builds.
@@ -22,16 +23,24 @@ It is dark mode... The best thing EVER! Plus, your interface and HUD are packed 
 - **Smooth Interface**: Sleek dark mode styling from [Default Dark Mode](https://modrinth.com/resourcepack/default-dark-mode) paired with smooth menu animations using [SmoothGui](https://modrinth.com/mod/smoothgui).
 - **Recipe & Profession Browsing**: Look up crafting recipes and villager professions using [Roughly Enough Items (REI)](https://modrinth.com/mod/rei) and [Roughly Enough Professions](https://modrinth.com/mod/roughly-enough-professions).
 - **Minimap & World Map**: Built-in world navigation with [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) and [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map).
-- **On-Screen HUD Indicators**: Real-time info on blocks/mobs with [Jade](https://modrinth.com/mod/jade), hunger values with [AppleSkin](https://modrinth.com/mod/appleskin), active [Status Effect Bars](https://modrinth.com/mod/status-effect-bars), improved mount HUD with [Better Mount HUD](https://modrinth.com/mod/bettermounthud), and item pickup popups via [Pick Up Notifier](https://modrinth.com/mod/pickupnotifier).
-- **Inventory Quality-of-Life**: Automatic sorting and inventory management with [Inventory Profiles Next](https://modrinth.com/mod/inventory-profiles-next), and container tooltips with [Shulker Box Tooltip](https://modrinth.com/mod/shulkerboxtooltip).
+- **On-Screen HUD Indicators**: Real-time info on blocks/mobs with [Jade](https://modrinth.com/mod/jade), hunger values with [AppleSkin](https://modrinth.com/mod/appleskin), active [Status Effect Bars](https://modrinth.com/mod/status-effect-bars), improved mount HUD with [Leave My Bars Alone](https://modrinth.com/mod/leave-my-bars-alone), and item pickup popups via [Pick Up Notifier](https://modrinth.com/mod/pickupnotifier).
+- **Inventory Quality-of-Life**: Automatic sorting and inventory management with [Inventory Profiles Next](https://modrinth.com/mod/inventory-profiles-next), and shulker box tooltips with [Easy Shulker Boxes](https://modrinth.com/mod/easy-shulker-boxes).
 - **Advancements & Stats**: Stylish advancement popups using [Advancement Plaques](https://modrinth.com/mod/advancementplaques), an upgraded advancement tree view with [Better Advancements](https://modrinth.com/mod/better-advancements), and an overhauled stats screen with [Better Statistics Screen](https://modrinth.com/mod/betterstats).
-- **Villager Trade Utilities**: Easily refresh villager offers with [Trade Cycling](https://modrinth.com/mod/trade-cycling).
+- **Villager Trade Utilities**: Easily refresh villager offers with [Trade Cycling](https://modrinth.com/mod/trade-cycling). Handle multiple villagers with [Trading Post](https://modrinth.com/mod/trading-post). Also handle multiple piglins with [Bartering Station](https://modrinth.com/mod/bartering-station).
 
 # Performance
 
 Performance will vary depending on your hardware, and because every system is different, I can't guarantee how well this pack will run on your setup. 
 
 However, I have included key performance optimization mods — such as [Sodium](https://modrinth.com/mod/sodium), [Lithium](https://modrinth.com/mod/lithium), [FerriteCore](https://modrinth.com/mod/ferritecore), [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast), and [More Culling](https://modrinth.com/mod/moreculling) — to help keep things running as smoothly as possible. 
+
+# Getting Started
+
+To get started with this pack there are a few places you can go.
+
+1. When creating your world, there are 4 datapacks that you need to activate if you want all of the features of the pack.
+
+2. You can find a guide to Farmer's Delight [here](https://github.com/vectorwing/FarmersDelight/wiki/Getting-Started).
 
 # _KNOWN ISSUES_
 
@@ -66,6 +75,8 @@ This includes:
   - Boiled Brown Egg ([Easter's Delight](https://modrinth.com/mod/easters-delight))
   - Boiled Blue Egg ([Easter's Delight](https://modrinth.com/mod/easters-delight))
 - Closing a singleplayer world may **occasionally trigger a shutdown watchdog exit (crash)**. Your world progress should have already saved completely prior to exit, so **no data should be lost**.
+- Opening the REI screen for **resizing the REI GUI causes the game's UI to freeze up**. The only way I know of to restart the UI it to stop the game in Modrinth or the system process manager.
+- The crafting grid buttons in the Tom's Simple Storage Crafting grid are obscuring the vanilla crafting book. Making the balence grid button unusable.
 
 # FAQ
 
@@ -90,6 +101,10 @@ A: Please open a GitHub Issue and attach the crash log files provided by Crash A
 ### 4. **Q: How do I get those 3D foods seen in the table picure in the photo gallery?**
 
 A: Due to how the mod **Display Delight** replaces models, all REI recipes for Farmer's Delight are missing. Till I find a fix or the mod auther changes something, I am leaving the Display Delight mod out so you can see the recipes.
+
+### 5. **Q: The inventory sorting buttons are in the wrong place or in the way of other elements in a GUI**
+
+A: There should be a **config screen button in the top left cornor** of the screen to move the buttons. If you make a Github issue detailing which screen it is, I can make the edit and add it to the pack so others don't have to edit it every time.
 
 # _DISCLAIMER_
 
