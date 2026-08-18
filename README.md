@@ -41,6 +41,55 @@ To get started with this pack there are a few places you can go.
 1. When creating your world, there are 4 datapacks that you need to activate if you want all of the features of the pack.
 
 2. You can find a guide to Farmer's Delight [here](https://github.com/vectorwing/FarmersDelight/wiki/Getting-Started).
+  
+3. Here is a list of mods to explore while you are playing. This is not the mod list of the entire project. For the list of mods, go to the 
+<details>
+<summary>Mods to keep in mind</summary>
+
+- [Air Hop](https://modrinth.com/mod/air-hop)
+- [Animal Feeding Trough](https://modrinth.com/mod/animal_feeding_trough)
+- [Armor Statues](https://modrinth.com/mod/armor-statues)
+- [Bartering Station](https://modrinth.com/mod/bartering-station)
+- [Better Statistics Screen](https://modrinth.com/mod/better-stats)
+- [Better Tridents](https://modrinth.com/mod/better-tridents)
+- [Block Runner](https://modrinth.com/mod/block-runner)
+- [Bundle Upgrade](https://modrinth.com/mod/bundle-upgrade)
+- [ClickThrough Plus](https://modrinth.com/mod/clickthrough+)
+- [Construction Wand (Fabric)](https://modrinth.com/mod/construction-wand-fabric)
+- [Crafting Tweaks](https://modrinth.com/mod/crafting-tweaks)
+- [Crops Love Rain](https://modrinth.com/mod/crops-love-rain)
+- [Cut Through](https://modrinth.com/mod/cut-through)
+- [Easy Anvils](https://modrinth.com/mod/easy-anvils)
+- [Easy Shulker Boxes](https://modrinth.com/mod/easy-shulker-boxes)
+- [Enchanting Infuser](https://modrinth.com/mod/enchanting-infuser)
+- [Explorer's Compass](https://modrinth.com/mod/explorers-compass)
+- [Fish On The Line](https://modrinth.com/mod/fish-on-the-line)
+- [Friendly Fire](https://modrinth.com/mod/friendly-fire)
+- [Horse Expert](https://modrinth.com/mod/horse-expert)
+- [Jade](https://modrinth.com/mod/jade) 🔍
+- [Just Hammers](https://modrinth.com/mod/just-hammers)
+- [LambDynamicLights - Dynamic Lights](https://modrinth.com/mod/lambdynamiclights)
+- [Magnum Torch](https://modrinth.com/mod/magnum-torch)
+- [Metal Bundles](https://modrinth.com/mod/metal-bundles)
+- [Moving Elevators](https://modrinth.com/mod/moving-elevators)
+- [Nature's Compass](https://modrinth.com/mod/natures-compass)
+- [Nether Chested](https://modrinth.com/mod/nether-chested)
+- [Respawnable Pets](https://modrinth.com/mod/respawnable-pets)
+- [RightClickHarvest](https://modrinth.com/mod/rightclickharvest)
+- [Tom's Simple Storage Mod](https://modrinth.com/mod/toms-storage)
+- [Trade Cycling](https://modrinth.com/mod/trade-cycling)
+- [Trading Post](https://modrinth.com/mod/trading-post)
+- [Traveler's Backpack](https://modrinth.com/mod/travelersbackpack)
+- [Universal Bone Meal](https://modrinth.com/mod/universal-bone-meal)
+- [Universal Enchants](https://modrinth.com/mod/universal-enchants)
+- [VeinMiner](https://modrinth.com/mod/veinminer) (with [Enchantment](https://modrinth.com/datapack/veinminer-enchantment))
+- [Waystones](https://modrinth.com/mod/waystones)
+- [WITS (What Is This Structure?)](https://modrinth.com/mod/wits)
+- [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)
+- [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map)
+- [Zoomify (Zoom)](https://modrinth.com/mod/zoomify)
+
+</details>
 
 # _KNOWN ISSUES_
 
@@ -49,11 +98,15 @@ This includes:
 
 - When two glass tables from [Macaw's Furniture](https://modrinth.com/mod/macaws-furniture) are connected, they turn to **a missing texture/model**. This is a known issue with the mod, and also affects the Biomes O' Plenty variants. (Github issues: [#647](https://github.com/sketchmacaw/MacawsModsIssues/issues/647) [#648](https://github.com/sketchmacaw/MacawsModsIssues/issues/648))
 - The following items **don't have a cooking pot recipe in REI**:
+  <details>
+  <summary>Items without cooking pot recipe</summary>
+
+
   - Tocino ([Ube's Delight](https://modrinth.com/mod/ubes-delight))
   - Brown Suger ([Ube's Delight](https://modrinth.com/mod/ubes-delight))
   - Raw Ube Polvorone ([Ube's Delight](https://modrinth.com/mod/ubes-delight))
   - Raw Pinipig Polvorone ([Ube's Delight](https://modrinth.com/mod/ubes-delight))
-  - Raw Polvorone CC ([Ube's Delight](https://modrinth.com/mod/ubes-delight))
+  - Raw Cookies and Cream Polvorone  ([Ube's Delight](https://modrinth.com/mod/ubes-delight))
   - Raw Polvorone ([Ube's Delight](https://modrinth.com/mod/ubes-delight))
   - Milk Powder ([Ube's Delight](https://modrinth.com/mod/ubes-delight))
   - Lumpia ([Ube's Delight](https://modrinth.com/mod/ubes-delight))
@@ -74,9 +127,14 @@ This includes:
   - Boiled Egg ([Easter's Delight](https://modrinth.com/mod/easters-delight))
   - Boiled Brown Egg ([Easter's Delight](https://modrinth.com/mod/easters-delight))
   - Boiled Blue Egg ([Easter's Delight](https://modrinth.com/mod/easters-delight))
-- Closing a singleplayer world may **occasionally trigger a shutdown watchdog exit (crash)**. Your world progress should have already saved completely prior to exit, so **no data should be lost**.
-- Opening the REI screen for **resizing the REI GUI causes the game's UI to freeze up**. The only way I know of to restart the UI it to stop the game in Modrinth or the system process manager.
-- The crafting grid buttons in the Tom's Simple Storage Crafting grid are obscuring the vanilla crafting book. Making the balence grid button unusable.
+
+
+  </details>
+- Closing the game may **occasionally trigger a shutdown watchdog exit (crash)**. Your world progress should have already saved completely prior to exit, so **no data should be lost**. (Possibly fixed)
+- Opening the REI screen for **resizing the REI GUI causes the game's UI to freeze up**. The only way (I know of) to restart the UI it to stop the game in Modrinth or the system process manager.
+- When using shaders, the mob health bars from Health Bars **do not render**.
+- Opening a world with shaders enabled, then disabling them, will **cause the minimap to not render**. This issue can be fixed by switching back to shaders or closing the game and reopening it.
+- Modded planks **can not be used to craft chests**. I am waiting for a mod like KubeJS to updated to 26.2 so I can manually add chest recipes for modded planks.
 
 # FAQ
 
@@ -107,7 +165,5 @@ A: Due to how the mod **Display Delight** replaces models, all REI recipes for F
 A: There should be a **config screen button in the top left cornor** of the screen to move the buttons. If you make a Github issue detailing which screen it is, I can make the edit and add it to the pack so others don't have to edit it every time.
 
 # _DISCLAIMER_
-
-Final note:
 
 **_This modpack has not been hevily tested!_** Since it is in its early stage, **I can not guarantee you will have the smoothest experience**, or it **may not work at all!** If your game does crash, please make a Github Issue with the appropriate information from the log files provided by Crash Assistant.
