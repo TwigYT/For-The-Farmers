@@ -42,7 +42,7 @@ To get started with this pack there are a few places you can go.
 
 2. You can find a guide to Farmer's Delight [here](https://github.com/vectorwing/FarmersDelight/wiki/Getting-Started).
   
-3. Here is a list of mods to explore while you are playing. This is not the mod list of the entire project. For the list of mods, go to the 
+3. Here is a list of mods to explore while you are playing. This is not the mod list of the entire project. For the list of mods, go to the [versions](https://modrinth.com/modpack/for-the-farmers/versions) tab.
 <details>
 <summary>Mods to keep in mind</summary>
 
